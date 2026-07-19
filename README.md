@@ -111,3 +111,45 @@ Based on the analysis, the following actions are recommended:
 * Review the factors behind the February sales dip to reduce similar slowdowns in the future.
 * Schedule staffing and promotions around afternoon peak sales periods.
 * Use the dashboard’s interactive slicers to analyze trends by customer type, gender, payment method, and branch for more targeted decision-making.
+
+  Markdown
+## Dashboard Preview
+
+![supermarket Sales Dashboard](Dashboard.png)
+
+
+## Project Files
+
+Supermarket_Sales_Dashboard_Excel
+- README.md
+- Supermarket_Sales_Dashboard.xlsx
+- Dashboard.png
+- Dataset.xlsx
+
+
+## Skills Demonstrated
+
+* Data Cleaning
+* Business Analysis
+* Dashboard Development
+* KPI Reporting
+* Data Visualization
+* Interactive Reporting
+* Analytical Thinking
+* Excel for Business Intelligence
+
+
+## What I Learned
+
+Building dashboards goes beyond creating charts. The real value lies in translating data into insights that help stakeholders make faster, more informed business decisions.
+
+This project strengthened my ability to analyze business performance, identify trends, and communicate findings through clear, interactive visualizations.
+
+
+## Future Improvements
+
+* Add Profit Margin Analysis.
+* Build a customer segmentation dashboard.
+* Introduce geographic mapping for branch performance.
+* Recreate the dashboard in Power BI for enhanced interactivity.
+
